@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beer-recipe-converter/static/css/main.a617e044.chunk.css",
+    "main.js": "/beer-recipe-converter/static/js/main.f3ac7598.chunk.js",
+    "main.js.map": "/beer-recipe-converter/static/js/main.f3ac7598.chunk.js.map",
+    "runtime-main.js": "/beer-recipe-converter/static/js/runtime-main.26efdfb4.js",
+    "runtime-main.js.map": "/beer-recipe-converter/static/js/runtime-main.26efdfb4.js.map",
+    "static/js/2.bbecbe97.chunk.js": "/beer-recipe-converter/static/js/2.bbecbe97.chunk.js",
+    "static/js/2.bbecbe97.chunk.js.map": "/beer-recipe-converter/static/js/2.bbecbe97.chunk.js.map",
+    "static/js/3.6f82ebea.chunk.js": "/beer-recipe-converter/static/js/3.6f82ebea.chunk.js",
+    "static/js/3.6f82ebea.chunk.js.map": "/beer-recipe-converter/static/js/3.6f82ebea.chunk.js.map",
+    "index.html": "/beer-recipe-converter/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/beer-recipe-converter/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bbecbe97.chunk.js.LICENSE.txt": "/beer-recipe-converter/static/js/2.bbecbe97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26efdfb4.js",
+    "static/js/2.bbecbe97.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f3ac7598.chunk.js"
+  ]
+}
